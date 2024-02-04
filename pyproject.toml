@@ -28,7 +28,7 @@ keywords = ["nlp", "persian nlp", "persian"]
 
 [tool.poetry.dependencies]
 python= ">=3.8, <4.0"
-nltk="^3.8.1"
+nltk="^3.4.5"
 gensim="^4.3.1"
 python-crfsuite="^0.9.9"
 numpy = "1.24.3"
