@@ -61,7 +61,7 @@ pytest-randomly = "^3.12.0"
 
 [build-system]
 requires = ["poetry-core"]
-build-backedn = "poetry.masonry.api"
+build-backend = "poetry.masonry.api"
 # build-backend = "poetry.core.masonry.api"
 
 [tool.ruff]
